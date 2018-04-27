@@ -1,4 +1,4 @@
-# Panduan Penggunaan BitBucket
+# Panduan Penggunaan GIT
 
 ## Table Of Content
 
@@ -6,11 +6,11 @@
 
 ------
 
-
+Tutorial cara menggunakan git baik github, bitbucket, gitlab dan lain-lainya.
 
 ## Buat Akun dan Repository Baru.
 
-1. Silahkan daftar ke http://bitbucket.org/
+1. Silahkan daftar ke http://bitbucket.org/ atau http://github.com dan git lainnya.
 
 2. *Create new repositories* klik lambang + pada kiri menu halaman bitbucket anda.
 
